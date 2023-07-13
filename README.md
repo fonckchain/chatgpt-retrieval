@@ -2,7 +2,7 @@
 
 Simple script to use ChatGPT to interact with GameStop phenomenon data, including resources from the SupersStonk community, GameStop's blockchain ventures and GameStop's financial data.
 
-Here's the [Original YouTube Video Guide](https://youtu.be/9AXP7tCI9PI).
+Here's the [Original YouTube Guide](https://youtu.be/9AXP7tCI9PI).
 
 ## Installation
 
