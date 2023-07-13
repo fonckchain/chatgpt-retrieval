@@ -1,10 +1,12 @@
-# chatgpt-retrieval
-
-Simple script to use ChatGPT on your own files.
+<p align="center">
+  <img width="180" src="./public/logo.png" alt="ChatGPT">
+  <h1 align="center">ChatGPT Retrieval</h1>
+  <p align="center">Simple script to use ChatGPT on your own files</p>
+</p>
 
 Here's the [Original YouTube Guide](https://youtu.be/9AXP7tCI9PI).
 
-## Installation
+## 📦 Installation
 
 Install [Langchain](https://github.com/hwchase17/langchain) and other required packages.
 
@@ -16,7 +18,7 @@ Modify `constants.py.default` to use your own [OpenAI API key](https://platform.
 
 Place your own additional data into `data`.
 
-## Example usage
+## ✨ Example usage
 
 Test reading `data/data.txt` file.
 
