@@ -33,3 +33,15 @@ Test reading `data/cat.pdf` file.
 > python chatgpt.py "what is my cat's name"
 Your cat's name is Muffy.
 ```
+
+## 🔄 Alternate Version
+
+There's also an alternate version of the script that prioritizes retrieving answers from the dataset before using the OpenAI model. This can help reduce the cost of using the OpenAI API.
+
+To use the alternate version, run the `chatgpt_reduced_cost.py` script instead of `chatgpt.py`.
+
+```bash
+> python chatgpt_alternate.py "what is my dog's name"
+Your dog's name is Lilia.
+
+```
