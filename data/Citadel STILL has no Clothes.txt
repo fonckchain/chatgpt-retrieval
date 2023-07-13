@@ -1,0 +1,213 @@
+Citadel Still Has No Clothes - Feb 28, 2022
+
+ Due Diligence
+
+TL:DR
+
+Citadel Securities upped their short position during 2021 and Citadel Advisors is even more fuller of hot air than
+
+in 2020. They also had a FINRA orgy with 14 different exchanges over erroneous pricing practices between 2014
+
+and
+2020. ___________________________________________________________________________________________
+__________________________
+
+It's FINALLY HERE..
+
+At long last, Citadel Securities has published their financials for 2021 and I've done me a dabble or two. If you haven't
+
+read Citadel Has No Clothes, please do so before reading on.
+
+Before I go balls-deep into this b*tch, let me start off by updating our total brokercheck.finra.org report on Citadel
+
+Securities. At the time of writing my first piece back in March 2021, we were at 58 total violations. As of writing, Citadel
+Securities has achieved another 15 violations, bringing Kenny's grand total to 73.
+
+*light applause*
+
+To be fair, 14 of these violations were for the same thing... they were just hit by 14 different exchanges at the same
+
+time... *Insert black guys & blonde girl meme*
+
+NASDAQ MRX, LLC
+
+CBOE EDGX Exchange, INC
+
+CBOE BZX Exchange, INC
+
+CBOE BYX Exchange, INC
+
+CBOE EDGA Exchange, INC
+
+NAXDAQ ISE, LLC
+
+NASDAQ Options Market, LLC
+
+NASDAQ GEMX, LLC
+
+NASDAQ Stock Market
+
+NASDAQ PHLX, LLC
+
+NASDAQ BX, INC
+
+NYSE
+
+NYSE ARCA, INC
+
+NYSE National, INC
+
+Their other violation from 3/2021 was covered in my post 'Walkin Like A Duck'.. Check it out.
+
+...Anyway..
+
+If my maff is correct, that means Kenny G did himself a heckin' naughty and racked up another 25.86% of his TOTAL
+violations in just one year.
+
+*little bigger applause*.
+
+Now let's remember, although these violations were published in December 2021, they were an accumulation of issues
+
+from prior years. In fact, the earliest date I found was August 15th, 2014 and the most recent was in May or June
+2020.. So that's 1 issue, reported by 14 different exchanges, across 6 years, totaling... $225,000 *little fart noise*
+
+Before I make anyone think the sky is falling- this is NOT a monumental fine.. This is just what has been reported by
+
+FINRA during 2021. I'll explain why I find it interesting in a sec but I need to preface these things because I know
+
+someone out there will say "tHaTs NoT tHaT bIg Of A dEaL, RoBiNhOoD hAd A bIgG...."... I promise you, I know.
+
+At any rate, here's the violation:
+
+Right off the bat, we have Citadel's signature violation "IT FAILED TO ESTABLISH AND MAINTAIN REASONABLE 
+RISK MANAGEMENT CONTROLS AND SUPERVISORY PROCEDURES" ... BLAH BLAH BLAH.
+
+Long story short, here's why I think this matters:
+
+When an option order is placed, Citadel has a price control mechanism that would reject orders priced at a "certain 
+
+percentage" away from the NBBO. This makes sense.. no big deal.. You shouldn't execute on trades that are too far 
+
+outside of the best bid. However, if that order is cancelled and replaced, you should repeat this process... which clearly 
+
+didn't happen.
+
+When an order is placed, it is often broken into several "child orders". This allows trade blocks to execute and complete 
+
+the order at the best price for the customer. If too many of those child orders are outside of the NBBO, the blocks should 
+
+stop executing until either the order is cancelled or the NBBO is back at the appropriate price.. If this system doesn't 
+
+work appropriately, it will complete the order outside of the NBBO.. Hopefully you can see where this would be a major 
+
+disadvantage to the customer.
+
+What's interesting here is the language "The firms erroneous order controls ... included a price control that would
+reject limit orders that were priced at a certain percentage away from the NBBO"..
+
+..then..
+
+"However, when an option order was cancelled and replaced, the price control was NOT applied to the replaced
+
+option orders."
+
+So... all 14 of these exchanges would receive limit option orders from Citadel before the market opened. If Citadel
+
+replaced the original order after the orders were sent to those exchanges, ALL of those orders would execute without
+
+appropriately reviewing the new parameters set by the replacement order....
+
+That's NUTS!
+
+Even more alarming is the lack of documentation that their personnel were supposed to follow in these situations. I know
+
+things get hectic for traders and it's hard to keep track of everything. We're all human and sh*t happens, but SURELY
+
+someone at Citadel noticed this occurring before the hammer had to come down, externally. Every past violation seems
+
+to highlight Citadel's lack of "give a f*ck" when it comes to these things. It just leaves a sour taste in the mouth..
+
+I'm sure everyone knows about the DOJ investigations going on right now. These issues can have a direct impact on
+
+their ability to manipulate prices. Intentional or not, if you're aware of these issues and fail to fix them, you're
+guilty. PERIOD.
+
+________________________________________________________________________________________________
+
+_____________________
+
+MEAT N' POTATOES, TIME
+
+Recall from Citadel Has No Clothes that Citadel ADVISORS had roughly $385,000,000,000 (that's billion) in assets
+under management in 2020... That consisted of roughly 76.7% derivatives and less than 25% of actual, physical
+assets....
+
+I was shocked to learn that initially, but after following their filings through 2021, I realized it was basically their bread n'
+
+butter. According to the most recent report on https://whalewisdom.com/, their AUM as of 12/31/2021 had increased by
+
+over $100,000,000,000 (again, billion).
+
+But that "increase" doesn't really represent true value... In fact, it's the highest-risk profile I've ever seen. Here's the
+market value of their equities & derivatives on 12/31/2020:
+
+AAAAAANNNNNNNNNNNNNDDDDDDDD here's the AUM for year-end 2021....
+
+Market value of physical equities is up 7.88%.... and their derivative values are up almost 37%?!?!
+
+37%?!?!?!!?!! IN ONE YEAR?!?!?! THEIR ENTIRE PORTFOLIO IS NOW 82.59% DERIVATIVES...
+
+I've waited an entire year for someone to show me one other firm that has this type of portfolio.... or WHY it would be a
+
+smart idea..
+
+If you're not sure what this means, I'm saying more than 80% of their portfolio is a STRAIGHT- UP gamble. Over 9% of
+
+their portfolio is a bet on Tesla... (they're bullish FYI).
+
+Hell, almost 7% of their portfolio are SPY PUTS.
+
+________________________________________________________________________________________________
+
+_____________________
+
+THIS NOW MAKES TWO YEARS IN A ROW THAT I'M AWARE OF.. NOT ONE, BUT TWO....
+
+WANNA KNOW SOMETHING ELSE THAT'S INTERESTING ABOUT THE NUMBER TWO? IT'S ALMOST THE SAME
+NUMBER OF PHYSICAL SHARES THAT CITADEL ACTUALLY OWNS..
+
+Moving on..
+
+Citadel Securities upped their short position to $65 billion this year. It's the highest since......
+
+2020....
+
+which was the highest since......
+
+2019...
+
+which was the highest since.... here, just take a look at this:
+
+Basically, Citadel Securities' holds over 87% of their liabilities as short obligations. This is split between options and
+
+equities, which is nothing new for them...
+
+Interestingly, they haven't had this level of short liability since right before the financial crisis of 2008... If I were to make a
+
+guess, I'd say they are betting against..... well.... everything? I wish I had their whalewisdom.com reports so I could
+
+compare how Citadel Securities scales with their hedge fund's prior filings. Would be interesting to see if the shorts are
+
+outgrowing their physical assets...
+
+well that's not a fair statement because anything can grow quicker than their physical asset portfolio.
+
+But you know what DOESN'T have problems growing? Their #SHORTS
+
+DIAMOND.F*CKING.HANDS
+
+#GMEtotheMOON
+
+#HODL
+
+

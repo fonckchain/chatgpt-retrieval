@@ -1,0 +1,177 @@
+Citadel's Lawsuit Against the SEC Over IEX's D-Limit Order Type
+DD ‍
+
+In one week, a panel of judges will hear oral arguments from Citadel, the SEC and IEX in a lawsuit that Citadel has
+
+brought AGAINST the SEC regarding the D-Limit order type. That's right - firms can (and do) sue their regulator when
+
+they don't like, or don't agree with rule approvals or disapprovals. It's worth mentioning that Virtu wrote a comment letter
+
+in support of D-Limit. I've interacted with Virtu quite a bit over the years, and I had generally found them to be flexible and
+
+supportive of innovative market structure efforts. I have not had much interaction with them after they acquired KCG and
+
+the PFOF/internalization group there. Take that as you will.
+
+Do you know what Citadel will claim first and foremost in their presentation to the judges?
+
+"We are the leading destination for retail order flow"
+
+"[O]ver 50% of our trading activity on IEX is on behalf of retail investors."
+
+This is from their comment letter on the order type:
+
+Does Citadel trade on your behalf? Do they represent retail investors or traders? Do you think the brokers that Citadel
+and other wholesalers pay for your order flow represent you either? Because Citadel and all of those brokers hold
+themselves out as the representatives of retail investors. As if they are incentivized to protect you, and ensure the
+market is designed for your benefit, rather than for theirs! This would be a hilarious joke if it wasn't the truth.
+
+I can't stand when I see firms holding themselves out as representing interests that they so obviously don't represent.
+
+We also shouldn't forget that $22M fine Citadel paid to the SEC for "Misleading Clients About Pricing Trades." The only
+
+thing these firms represent is their P&L statement or their quarterly earnings for the publicly traded discount brokers. This
+happens constantly in market structure debates - there are no authoritative independent voices, and it's why I always try
+to make sure my biases are disclosed (for example, as I always state, I have a small equity position in IEX resulting from
+
+when I worked with them in 2012/2013, because I supported their mission and their approach). People's views are strictly
+
+a result of the chair they sit in, or the company issuing their annual bonus, or the company sponsoring their academic
+
+research. They'll make impassioned, coherent, intelligent arguments against a practice (such as PFOF and off-exchange
+
+internalization without meaningful price improvement) when they work at a stock exchange, or when they run a high-
+
+frequency trading firm that doesn't engage in the practice, and then they'll argue the complete opposite as soon as their
+annual bonus is contingent upon the practice. It's disgusting. But of course it shouldn't be surprising anymore.
+
+What is the D-Limit Order Type?
+
+To understand the D-Limit Order Type would take quite an extensive post on its own. There's so much background
+
+needed that it's hard to summarize, but I'll try. IEX as an exchange was built to counteract the impact of latency arbitrage
+(this is extremely overly simplistic). One of the ways this was accomplished was to coil a lot of fiber so that all data in and
+
+out of the exchange was delayed by 350 us (microseconds). To put this in perspective, I think I read somewhere that
+
+nerve impulses in our body take 80-120 milliseconds to get from your hand or eye, to your brain, aka 80,000
+
+microseconds. So 350 microseconds is not a long time, and is a hard concept to understand at human scale. I used to
+
+run trading strategies 10 years ago that did everything they needed to do in 45 us, again for some perspective.
+
+A primary reason for the 350us delay was so that the exchange pricing and matching systems were always faster than
+the exchange's fastest participant. One of the reasons for this was for pegged order types. A pegged order type is one
+that is dependent on the NBBO. For example, a midpoint peg is an order that executes at the midpoint of the NBBO. If
+
+the exchange is slower than the firms trading on it, those firms can use their speed to pick off stale midpoint peg orders
+
+when they see the NBBO change, but before the exchange has seen the change. This is complicated stuff, and it's one
+
+example of latency arbitrage - there are other types. However, it also speaks to incentives. IEX was funded in large part
+
+by asset managers, and so designed an exchange focused on protecting them. Other exchanges' focused on their best
+
+customers, meaning the firms that trade the most on those exchanges - high frequency trading firms.
+
+So back to the IEX D-Limit order type. IEX developed something called a CQI (Crumbling Quote Indicator) and the math
+
+behind it looks VERY similar to the math that underlies many high-frequency trading models. For the mathematically
+
+inclined (there's a lot more detail in the paper):
+
+It watches price feeds and supply/demand in order to forecast when an impending price level change is coming. When
+
+the indicator fires, some IEX order types don't trade - they wait to be repriced to the new price level before being able to
+
+trade. This reduces the opportunities for latency arbitrage. The D-Limit order type is one of those order types - it is a tool
+
+IEX created to protect investors from latency arbitrage, and it uses the same technology that HFT firms use in order to do
+
+so.
+
+Why is something like this important? You might be shocked (probably not) to learn that a HUGE amount of trading in
+
+markets takes place around these quote changes. Here's how IEX breaks it down in their comment letter (noting that CQI
+
+is only active for a handful of seconds during the trading day):
+
+Who Supports D-Limit?
+
+So if Citadel is suing the SEC, there must be a lot of firms that oppose this order type? Nope. Was it a controversial
+
+approval when the SEC approved it? Nope - it was a unanimous vote by SEC commissioners. Not only that, the firms
+that support IEX in this innovation actually represent the interests of retail investors. Keep in mind that most of retail's
+wealth is in pension plans and mutual funds managed by large asset managers. These asset managers often are
+
+compensated as a % of Assets Under Management (AUM), meaning that when your retirement savings grow, so do their
+
+fees. If there's anyone incentivized to look out for long-term investors, it's the asset management community. This is
+
+from IEX's response, defending the D-Limit order type:
+
+Here's a pretty robust cross-section of the industry supporting this feature (you might not like all of these firms, but it's a
+
+pretty diverse group - not just a single large market maker):
+
+Here's a quote from XTX Markets. XTX is one of the largest HFT firms in the world, and their CEO is fighting hard
+against PFOF and off-exchange internalization. Their quote talks directly about "high-speed information asymmetry
+
+advantages" (aka latency arbitrage) and how mitigating the harm of latency arbitrage will "incentivize liquidity providers to
+
+narrow spreads and display larger size"
+
+There are so many other quotes - I encourage you to read the IEX Comment Letter, pages 3-6 include quotes from so
+
+many different market participants.
+
+What's The Point Dave??
+
+First, I think it's important to understand the underlying issue, so I've probably spent a bit more time on it than necessary.
+
+I also wanted to show that support for the order type isn't just something coming from me personally, or from a small
+
+group of firms - it's a huge cross-section of the industry.
+
+Most importantly, I want the community to see what is happening here. Citadel is holding themselves out to represent
+
+retail investors, even claiming that they trade "on behalf of retail investors." This sounds like a wolf in sheep's clothing
+
+situation to me. Citadel is trying to claim they advocate for retail, when all they really do is profit by trading against retail.
+
+Citadel has fought against IEX every step of the way, summarized well in the Better Markets brief supporting the SEC
+
+and IEX:
+
+Here is the SEC's response to Citadel's claim that it trades "on behalf of" retail investors:
+
+Even the SEC isn't buying the idea that Citadel trades "on behalf of" investors. Citadel takes the other side of retail's
+
+trades. As the SEC explains above, Citadel literally trades against retail investors, but is claiming otherwise before this
+
+panel of judges. The SEC even states that Citadel couldn't even rule out the possibility that they engage in latency
+
+arbitrage:
+
+The SEC defends itself overall by explaining that it agrees with IEX that there is latency arbitrage, and that it is a problem
+
+for liquidity providers on IEX.
+
+That's quite a ground-breaking admission in my eyes.
+
+So back to the point - I think it's important that retail investors make their voice heard this week - and show that Citadel
+
+does not represent retail, as they will claim next week. There should be a lot more attention on this issue than there
+
+currently is, and I think that's because the specific issue is concerned with the minutiae of market structure complexity.
+
+But the overriding issue is one of incentives and representation, and it seems obvious to me that IEX deserves retail's
+
+support in this fight.
+
+tldr; Citadel is suing the SEC over an IEX order type that mitigates the harm of latency arbitrage, and the hearing is next
+week. Citadel claims to represent retail investors. Most of the rest of the industry disagrees with them. I'd urge you to
+
+make your voice heard if you agree with IEX and to fight against the idea that Citadel represents retail investors.
+
+

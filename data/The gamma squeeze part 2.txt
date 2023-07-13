@@ -1,0 +1,313 @@
+The Gamma Squeeze part II - March 23, 2022
+
+ Due Diligence
+
+TL;DR - The option chain is lining up with massive consequences at / after $150. I believe the price suppression
+
+is being targeted at specific strike prices to avoid another gamma squeeze from happening before Friday 3/25. If
+
+you see resistances at those points, it could be because these OTM call sellers got caught with their pants
+
+down. #LFG
+
+________________________________________________________________________________________________
+
+_________________
+
+WHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!DAMN IT, WHAT A WEEK SO
+
+FAR!
+
+I wanted to throw my 2-cents in on our current situation and explain why I think $150 is a very important price-point.
+
+I don't wanna get too far into the weeds on options trading, but they are having a significant impact on the price action
+
+around $150 right now. For those of you that were here back in January 2021, you will probably recall we had
+
+significant... I MEAN SIGNIFICANT.... OTM call options that suddenly became ITM when the price started skyrocketing.
+
+This causes a chain reaction because the seller of the call option is now required to go into the market and purchase the
+
+security for the buyer once the market price reaches the strike price and the option is exercised.
+
+This obviously assumes the seller doesn't have the share at that moment and the call owner exercises the option
+
+immediately. Usually, the option owner waits for the price to go up even higher before the option is exercised. The higher
+
+it goes, the deeper in the money the option becomes. When the price goes up really fast and these options are
+
+exercised, it forces something called a gamma squeeze...
+
+...So basically.... on top of retail investors who are FOMO buying during a price spike, the added pressure of buying
+
+shares to cover those ITM call options adds nitrous oxide to the rocket.
+
+The advantage of selling OTM calls is that you can collect premiums from the sale of the option without having to buy the
+underlying security as long as the strike price is never met or the option expires.. it's basically free money.
+
+...However, if you're wrong and something like GME happens......
+
+.....
+
+....... TENDIEMAN COME
+
+________________________________________________________________________________________________
+
+_________________
+
+Let's look at where we are today.
+
+Right now, it's extremely hard to find shares to borrow. This is evidenced by the increase in borrow rate across almost
+
+every broker. Unless you've been hiding under a rock for the past week or so, you've probably seen a few posts talking
+
+about it.
+
+I've been looking at https://iborrowdesk.com/report/GME for info on the number of shares available to borrow and the
+
+rate to borrow them. If you've been tracking the Stonk-O-Tracker, you'll see similar reports using IBKR.
+
+The option chain for GME is pretty dramatic this week. If you look at the calls through $140, you'll see what I'm talking
+about. Keep in mind this is just for calls expiring on Friday (3/25).
+
+For those who don't know what this picture represents, this is what's called an option chain. You can look this up
+on Yahoo. The 3rd column from the left represents the strike price, while the other highlighted columns are option
+volume and open interest, respectively*.*
+
+1. When the dollar amount of a stonk rises to the strike price of a call option, the option is considered In The Money
+(ITM). Whoever bought the call option can exercise the call and buy the share at the strike price from the seller.
+
+The longer you wait to exercise and the higher the price goes, the deeper ITM the option becomes
+
+2. The number of contracts that are traded- usually daily- is the reported option volume. This is Just like the stonk
+
+volume. There's really nothing complicated here. If you see a high volume for a given option, it means it's highly
+
+liquid and can be traded easily. This number changes often
+
+3. Lastly, the number of ACTIVE options is referred to as the option interest. When looking at the 120 calls in the
+screenshot above, there are currently 3,042 active calls (as of 3/23/2022 @ 2:50pm EDT). Each call option
+represents 100 shares, so that's a total of 304,200 shares embedded within those options
+
+As you continue on down the line, you can sum the option interest reported at each strike price and then multiply that
+
+total by 100. This gives you the total amount of shares that are eligible to be purchased if the call owners decide to
+
+exercise their rights....
+
+...I started counting calls at the $100 strike because it was the first, big milestone we crossed this week (in terms of
+option interest). Since yesterday (3/22), we now have 24,189 call options ITM. That's 2,418,900 shares. This just
+represents the calls through the $140 strike, and the options expiring this Friday..
+
+....let that sink in.....
+
+What's most significant here is that the LIKELIHOOD of these options being ITM this week was really, REALLY low. Prior
+
+to yesterday, everything below $100 was considered Out of The Money (OTM). The financial elites and their media
+
+outlets were pushing FUD prior to the earnings report because all of their metrics are based on the most simplistic
+numbers like EPS and net income. Any good accountant knows the TRUE details are in the words- not the
+numbers. Not one article (that I saw) mentioned any good things about the company, the personnel growth it's had in
+the past year, or the transformation that's underway. A lack of "direction" is apparent when executives are milking tendies
+
+off a dying company and refuse to make ANY changes to better that company's future. This is obviously not the case
+
+here and we all know these changes wouldn't be made recklessly. If I was still waiting on GameStop to "be a better brick
+
+and mortar", I would have my doubts. Obviously, that's not true.
+
+Regardless, several investors were expecting a big dip, so placing a bet on calls above $100 was almost a guaranteed
+
+waste of cash...
+
+________________________________________________________________________________________________
+
+_________________
+
+Now then...
+
+I'll pick back up on options in just a minute but I wanna talk about the events preceding this week. If you've been
+
+watching the borrow rate, you'll realize how much change there's been in the past 10 days or so. You can use a variety
+
+of reports from different brokers, I'm using iborrowdesk.com because it has a decent average and shows time-series
+
+data.
+
+iborrowdesk.com/report/GME
+
+I have no idea what caused the borrow rate to tank after January / February 2021. To this day, it still confuses me. I have
+
+my theory on how HFs are hiding short positions in long-term options (discussed w/ Dr. T and Wes Christian), but have
+
+no idea how, or if, this would affect the borrow rate. If you check the borrow rate against the shares available for borrow,
+
+it doesn't really make sense. The increasing rate from the past couple of weeks doesn't correlate with the reduction in
+
+share availability because we've been at these levels before. I wouldn't be surprised if some back-room deal took place
+
+to reduce the borrow rate long enough for the hedgies to "out-wait" the apes last year, but that's tinfoil and I can't prove
+
+any of it. Besides, we have no idea how many shares were sold naked because no one was paying attention to ANY of
+
+these things in January 2021. I believe that's a different story now. We're watching these things much more closely this
+
+time around.
+
+Anyway, what's important here is the rate IS going up again...
+
+...So why is this significant?..
+
+The borrow rate is one of the biggest indicators of share-scarcity. It comes directly from those lending the shares and
+
+represents some of the best & most timely information we have regarding short selling. Most of the time, we have to
+
+guess at what is going on... we have no idea how many shares are actually available or how quickly they can "smash the
+
+F3 key" (read HOC III) to make it seem like the shares are actually there. However, if you are on the inside of these
+
+operations and actually know the shares are hard to come by, you would naturally start charging higher interest for them.
+
+________________________________________________________________________________________________
+
+I have no idea what caused the borrow rate to tank after January / February 2021. To this day, it still confuses me. I have 
+
+my theory on how HFs are hiding short positions in long-term options (discussed w/ Dr. T and Wes Christian), but have 
+
+no idea how, or if, this would affect the borrow rate. If you check the borrow rate against the shares available for borrow, 
+
+it doesn't really make sense. The increasing rate from the past couple of weeks doesn't correlate with the reduction in 
+
+share availability because we've been at these levels before. I wouldn't be surprised if some back-room deal took place 
+
+to reduce the borrow rate long enough for the hedgies to "out-wait" the apes last year, but that's tinfoil and I can't prove 
+
+any of it. Besides, we have no idea how many shares were sold naked because no one was paying attention to ANY of 
+
+these things in January 2021. I believe that's a different story now. We're watching these things much more closely this 
+
+time around.
+
+Anyway, what's important here is the rate IS going up again...
+
+...So why is this significant?..
+
+The borrow rate is one of the biggest indicators of share-scarcity. It comes directly from those lending the shares and 
+
+represents some of the best & most timely information we have regarding short selling. Most of the time, we have to 
+
+guess at what is going on... we have no idea how many shares are actually available or how quickly they can "smash the 
+
+F3 key" (read HOC III) to make it seem like the shares are actually there. However, if you are on the inside of these 
+
+operations and actually know the shares are hard to come by, you would naturally start charging higher interest for them.
+
+_________________
+________________________________________________________________________________________________
+
+Let me get to the point.
+
+Let's ignore the fact that you can do all sorts of fancy sh*t with options. All you need to know is that the options
+
+are derived from the underlying asset. In other words, the number of shares that are embedded within the total call
+
+options for a given stock should be less than the total number of shares available to trade in that company. This seems
+
+like common sense because you shouldn't be able to exercise more options than you have shares.
+
+However, we know Wall St. does it because most of the time those options are never exercised. They just pocket the
+
+premiums and laugh all the way to the bank.
+
+That being said, there were over 200m shares dedicated within these options back in January 2021. So when the stonk
+
+started going to the Oort Cloud, there was considerable reason to freak out. The safest thing to do when you sell a call
+
+option is to actually own the share ahead of time. That way if the buyer of that call option decide to exercise the option,
+
+you don't get caught with your pants down... but what are the odds of that actually happening?
+
+Last week, a $150 call wasn't even a reasonable choice... You'd have to pump the stock price 50% in a week to even
+
+consider those being close to ITM. So if I was selling $150 calls on a stock with a "negative outlook" and approaching
+
+earnings season, which is even more likely to report another loss, I wouldn't be worried about covering those calls...
+
+Check this sh*t out.. These are just the $150 calls that expire on 3/25...
+
+Expiring 4/1.....
+
+Expiring 4/8.....
+
+Expiring 4/14.....
+
+Expiring 6/17.....
+
+I'll do the maff for you so you don't blow a gasket...
+
+that's 15,008 call options with a $150 strike price....
+
+.....1,500,800 shares that are dry-humping ITM status.....
+
+..................TODAY.....
+
+Not next week... not next month... TODAY....
+
+Again... I don't know how many of these are covered, but the chances of someone waking up today and having to worry
+
+about it were pretty f*cking slim if you ask me...
+
+So....
+
+Option chain looks juicy, borrow rate going up, share availability low....
+
+What happens if we crack $150? well.. in addition to the previous landslide of shares that are now ITM between $100
+
+and $140, we have over 15,008 more options (1.5m shares) which are more likely to be called sooner than previously
+
+expected..
+
+________________________________________________________________________________________________
+
+_________________
+
+If I were a SHF and suddenly faced with this harsh reality, I'd be trying to short the absolute f*ck out of it right about now.
+
+The only problem is the availability of shares to borrow is super f*cking low and even if you can FIND them, you have to
+pay nearly 10% in interest... Not to mention RETAIL OWNS THE FLOAT THIS TIME AND 25% IS DIRECTLY
+REGISTERED WITH THE COMPANY
+
+Just compare that to the 1-2% borrow fee you've been paying for the past 10 months and things are starting to look
+
+pretty sh*tty if you're a SHF. There were literally 0 shares available to borrow yesterday, at least according to the
+
+websites we have. At one point I believe there were less than 5k... which is absolutely dry as a desert.
+
+Now...
+
+So here's the price action today broken down by 15 minute candles.
+
+Pressure to suppress the price below..... what's that?? ....$150 you say?.... Any time the price started to get close, it's
+met with immense downward pressure, as evidenced by the red pivot-points...
+
+I'm not one to think that coincidences like this are simply coincidence...
+
+I believe the threat of a gamma squeeze is becoming VERY real and they've got until Friday to release some of that
+
+pressure.. I believe shorts are being very strategic in where and when they load the extra supply to suppress us from
+
+reaching specific price targets. As a short seller, your objective is to sell stock when you think you've reached a high, not
+
+when it's building up to that peak. If there's nothing malicious going on, why not let it run?
+
+I believe the act of RC buying another 100k through the lit exchange, on the ABSOLUTE BEST DAY to do it, dealt a
+
+HUGE blow to the SHF narrative. There couldn't have been a better time to reignite retail investor sentiment.
+
+But hey... what do I know....
+
+DIAMOND.F*CKING.HANDS
+
+#GMEtotheMOON
+
+
