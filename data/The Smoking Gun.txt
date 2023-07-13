@@ -1,0 +1,261 @@
+The Smoking Gun - March 10, 2022
+
+ Due Diligence
+
+TL:DR - Here's the proof... we were lied to.... the numbers don't add up.. shorts did not cover during January and
+
+I still don't see how they could have. Read this FULLY and tell me I'm wrong
+
+________________________________________________________________________________________________
+
+_____________________
+
+My fellow Apes,
+
+Lately I've been thinking about the short-interest publication by S3 last year when Ihor (yeah, remember him?) tried to
+
+explain how the short-interest reached 140%. This was a central topic to our conversations on previous subreddits and it
+
+seems to have been forgotten. We kind of glazed over it during the hype and I don't think we ever documented the
+
+process or properly defined WTF happened.
+
+I'm putting this DD together to analyze the timeline of events. Just so there are no doubts about the actual SI %, I
+
+grabbed this screenshot directly from the SEC's report last October.
+
+page 21 of the PDF
+
+When everyone found out the SI% was this high, there were suddenly SOOOOOO many questions asking how it can
+
+even happen. Without a way to accurately determine the SI% using public info, several of us used S3 and Ihor because
+
+they had been relatively objective in the past.
+
+Anyway, prior to January no one really paid enough attention to actually give a sh*t about these figures. Or better yet,
+
+there weren't enough eyes on the issue to dig into it. That obviously changed after January and people like Ihor were
+
+suddenly faced with some serious questions, primarily "HOW THE F*CK DO THESE PEOPLE SELL MORE SHARES
+
+THAN EXIST"
+
+...I remember it like yesterday....
+
+There was a very quick narrative change from the S3 team.. Ihor quickly went from supporting the traditional (and more
+
+objective) equation ...to Frankenstein's monster of a formula....
+
+https://twitter.com/ihors3/status/1354856088907210754
+
+Let's dissect this sh*t one step at a time because there's A LOT going on in this post...
+
+________________________________________________________________________________________________
+
+_____________________
+
+Step 1: WTF is a synthetic long?
+
+Ihor states that every short sale CREATES a synthetic long..
+
+Whenever you short sell a stock, the obligation to repurchase that share at a later date is created. Therefore, what Ihor is
+
+saying is that each obligation to purchase a FUTURE share should be treated as an ADDITIONAL share to those that
+
+already exist..
+
+His own words..... "the traditional float number in the SI % Float calc is WRONG"... Keep in mind this was literally
+during the peak of the event in January... convenient timing, right?
+
+________________________________________________________________________________________________
+
+_____________________
+
+Step 2: Redefine the SI % calculation to include synthetic longs
+
+Get ready because sh*t is about to throw you for a f*cking loop... Ihor is literally suggesting that the SI% should include
+
+the short positions IN THE DENOMINATOR of the calculation, AS WELL AS THE NUMERATOR.... If you keep the same
+figures I reported above (70m / 50m) and recalculate SI% the way that Ihor suggests, here's the result: 70m shorts /
+(50m float + 70m SYNTHETIC shares) = 70m shorts / 120m TOTAL SHARES = 58.3%
+
+Surely to GOD we haven't been reduced to this level of desperation... but here's his post from the VERY NEXT DAY.
+
+https://twitter.com/ihors3/status/1355194252674953219?lang=en
+
+Now I'm no genius, but it REAAAAAAAAALLY looks like Ihor reported the actual SI% using the new figures after
+1/28/2021 AND reported his new S3 calculation using the synthetic longs in the denominator....
+
+Want more evidence? Take the 57.83m shares that Ihor reported as sold short, add those to the number of shares that
+
+were in the float (50m or so), then divide that total by the 57.83m.....
+
+57.83m / (50m float + 57.83 synthetic shares) = 53.63%.... f*cking WHAT!?
+
+Ihor reports 53.12% and I calculated 53.63% by shooting from the hip?! GTFO..
+
+Based on the SEC's report, we know there was a small amount of covering during this time and I'm not doubting that the
+
+short interest dropped to 113%, but if the ACTUAL short interest was still 113% after we hit our peak, then when the f*ck
+
+did they cover? (I'll come back to this, later)
+
+________________________________________________________________________________________________
+
+_____________________
+
+Step 3: You can't get 5 quarts of milk out of a gallon jug!
+
+Apparently, this guy is appealing to the common sense of the average investor by playing dumb.. Why do I think he's
+
+'playing' dumb?
+
+HODL my f*cking beer and watch this..
+
+If you haven't read the HOC series and don't know about the ways that companies fail to mark the short sale indicator on
+
+their shares, then I would suggest you go back and do that. It's the most obvious way for a company to conceal short
+
+positions. It can go on for years without people knowing and it creates millions of phantom shares, which I'm pretty sure
+
+everyone knows about at this point. When phantom shares are lent multiple times because they are never documented
+
+to begin with, you most definitely have a 5th quart of milk, dumbass.
+
+But let's assume you DON'T know about that... Check out this FINRA violation from Barclays:
+
+https://files.brokercheck.finra.org/firm/firm_19714.pdf
+
+So people like Ihor use numbers that are provided from a source, which is usually these f*ckheads. The biggest issue
+
+that most of us have been talking about is the ACCURACY of those reports. When Ihor gets his report, there's no way to
+
+validate the numbers because it's not his calculation to validate.
+
+Instead, someone like Barclays (listed above) uses their own "methods" to determine if they are long or short on a given
+
+stock (or derivative). Therefore, if they include a number that is calculated erroneously, people like Ihor have to use that
+
+faulty information.
+
+Here in lies the problem and this is why I think Ihor is full of sh*t. For someone that's a "Managing Director of Predictive
+
+Analytics" at a Financial Analytics Firm, you can't assert that you are unaware of these errors within your source
+
+information.... I have half a wrinkle and I can put this sh*t together so there's no way in Hell that you can't.
+
+Anyway, Barclay's over-tendered 270,000 shares in a company because it miscalculated it's long position. They
+manually calculated their long position using multiple systems which ultimately excluded a short position that was
+housed in (yet) another system...
+
+Now we know this isn't a major f*ck up compared to the crimes I listed in the HoC, but it's plenty of ammunition to blow
+
+more holes in Ihor's milk jug theory. If Ihor's source report excludes these shares, it means that all of the shares which
+
+SHOULD have been included in his report, WEREN'T...
+
+Furthermore, I pulled this from the SEC's report:
+
+So not only does the 5th quart exist, but you never included the 4th quart, either...
+
+Huh.... 'magine that....
+
+________________________________________________________________________________________________
+
+_____________________
+
+Now then... where was I?
+
+Aside from Ihor's proprietary SI formula and his blatant gaslighting, what actually happened to the shorts during January?
+
+....Well HODL on to your f*cking hats...
+
+Let's get back to the timeline... on 1/29/2021 Ihor comes out with a new SI figure which shows the new S3 calculation. I
+
+truly believe this was the beginning of the media campaign to pump FUD into retail investors. At this time, many people
+
+were referring to the run-up as the short squeeze, or even a gamma / delta squeeze. We had no idea what it was
+
+because there was no financial information about it... HOWEVER.... It LOOKED a lot like a short squeeze..
+
+As we moved into the first week of February, it's as if all of the news outlets were trying to shout the same story: the rally
+has GameStopped and the shorts have covered. Here's just ONE from CNBC..
+
+https://www.cnbc.com/2021/01/29/gamestop-short-sellers-are-still-not-surrendering-despite-nearly-20-billion-in-losses-this-year.html
+
+We all saw how many tactics that were used to simultaneously promote the same story in favor of corporate interests.
+They acknowledged that Redditors had caused some damage to the hedgies, but ultimately it was over and "MOST OF
+THE SHORT COVERING OCCURRED ON THURSDAY, WHEN THE STOCK FELL FOR THE FIRST TIME IN SIX
+
+DAYS."
+
+Note the comments regarding other short sellers holding and / or taking new positions against the stock.. Anyway, this
+
+was also published on 1/29/2021 and includes quotes directly from S3... right after S3 publishes new figures which
+
+indicate declining short interest..
+
+Several of us thought they would cover once the buy button was blocked by certain brokers.. It was the perfect
+
+opportunity to do so because supply went WAAAAAAAAAAAYYYYY up...
+
+...and yet, the total amount of SI on 1/29/2021 was still over 100% and covering would have meant financial suicide...
+
+these f*ckers have been shorting meme stonks for literally a decade.... back when the price was like $4 - $5 a share....
+
+imagine still paying $100 or even $50 a share to get out of that bet..
+
+So what's a better thing to do..... nuke your long positions and cover, or spend the cash to pump media FUD and make it
+
+look like it's game over?
+
+IDK.... you tell me...
+
+________________________________________________________________________________________________
+
+_____________________
+
+Yet again, I reference the SEC's official report..
+
+It's nothing new... we know the SEC reported that most of the buying was from retail and not shorts... but look at that last
+
+line..... ".. sustained the WEEKS-long price appreciation...."
+
+..Well tickle-my-balls.... so what exactly happened to the shorts?
+
+Figure 6 from the SEC's report
+
+The blue bars are total buy volume and the red bars are buying from short sellers..
+
+Look at all of the dates between 1/19/2021 and 1/29/2021... remember what Ihor said about this time frame?
+
+...we dropped from around 140% to 113%... as of 1/29/2021, Ihor said the ACTUAL short interest was 113%.... that's
+BEFORE using S3's new SI% calculation.....
+
+Now go back to the red bars...... assuming 140% was the high... you mean to tell me that ALL of that buying was only a
+
+27% reduction... (let me double check my maff.... 140 - 113... yup... 27%) in the outstanding short interest?....
+
+Did they cover after the price dropped while the buy button was disabled?
+
+IDFK, you tell me... does it look like there was much activity from short sellers covering after 1/29/2021? To me, it looks
+
+like these mother f*ckers spent money trying to gaslight the population and hope we washed our hands of it....
+
+There is NO F*CKING WAY short interest dropped below 100% after all of this...
+
+Not to mention this PROVES the media lied to us for MONTHS about shorts covering because the SEC determined that
+
+was a HUGE F*CKING NO.
+
+We weren't wrong: we were gaslighted and lied to.
+
+Here's the smoking gun.
+
+Someone's not telling the truth.
+
+DIAMOND.F*CKING.HANDS
+
+#GMEtotheMOON
+
+
